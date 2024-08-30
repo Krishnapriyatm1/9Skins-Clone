@@ -1,0 +1,123 @@
+body{
+    background-color: #563230;
+}
+.custom-navbar {
+    background-color: #563230;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand {
+    color: #c6a87d !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+
+
+.nav-link {
+    color: #c6a87d !important;
+    font-size: 1.0rem;
+    margin-right: 1rem;
+    
+}
+
+.nav-link:hover {
+    color: #d0c9a3 !important;
+    text-decoration: underline;
+}
+
+.icons-nav .nav-link {
+    font-size: 1.0rem;
+    
+}
+
+.dropdown-toggle {
+    background-color: #4a2c2a;
+    border: none;
+    color: #c6a87d;
+}
+
+.dropdown-toggle:hover, .dropdown-toggle:focus {
+    background-color: #4a2c2a;
+    color: #ffffff;
+}
+
+.dropdown-menu {
+    background-color: #4a2c2a;
+}
+
+.dropdown-item {
+    color: #c6a87d;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: #ffffff;
+    background-color: #4a2c2a;
+}
+
+
+.card {
+    background-color: #d7af86; 
+    border: none;
+    border-radius: 10px; 
+    size: 100%;
+    
+}
+.card img {
+    object-fit: cover;
+    /*height: 200px;*/
+    width: 100%;
+    height: 100%;   
+}
+.card img:hover {
+   content: url(https://9skin.in/cdn/shop/files/Eternelle-2_72f5324a-c9f6-4577-9113-df3500d26b40.png?v=1695917235&width=533);  
+}
+
+
+.card-title {
+    font-weight: bold;
+    color: #3e2205; /* Dark brown text color */
+}
+.card-title:hover{
+    text-decoration: underline;
+}
+.card-text, .card-price {
+    color: #3e2205; /* Dark brown text color */
+}
+.btn-shop {
+    background-color: transparent;
+    border: 2px solid #3e2205; /* Dark brown border color */
+    color: #3e2205; /* Dark brown text color */
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.btn-shop:hover {
+    background-color: #543719; /* Dark brown background color */
+    color: #f5d7b6; /* Light beige text color */
+}
+
+.icon{
+    margin: 5px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 180px;
+    border-radius: 50px;
+    color: #c6a87d;
+}
+
+#skin{
+    margin: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#selflove{
+    width: 1110px;
+    height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+
